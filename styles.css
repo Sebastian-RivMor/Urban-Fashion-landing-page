@@ -8,7 +8,7 @@ body{
     height: 100vh;
     width: 100%;
     padding: 20px 50px;
-    background-image: url('Urban Fashion img/background.png');
+    background-image: url('./Urban Fashion Img/background.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
